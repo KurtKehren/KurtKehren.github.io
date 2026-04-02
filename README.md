@@ -1,8 +1,11 @@
-# Mechanical Engineer
+# Mechanical Engineering Portfolio
 
+## SUMMARY
+Hello and welcome to my portfolio, if your a recruiter, friend or stranger I hope you enjoy the journey :)
+ 
 ## Education
 			        		
-- B.S., Mechanical Eningeering | Michigan State University (_December 2025_)
+- B.S. Mechanical Eningeering | Michigan State University (_December 2025_)
 - Minor in Material Science & Engineering
 - ( More Coming Soon! )
 
