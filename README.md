@@ -4,7 +4,7 @@
 Hello and welcome to my portfolio, if your a recruiter, friend or stranger I hope you enjoy the journey :)
  
 ## Education
-			
+ 
 - B.S. Mechanical Eningeering | Michigan State University (_December 2025_)
 - Minor in Material Science & Engineering
 - ( More Coming Soon! )
@@ -12,9 +12,9 @@ Hello and welcome to my portfolio, if your a recruiter, friend or stranger I hop
 ## Work Experience
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="000417930005.jpg" alt="test" width="300">
-  <img src="000417930012.png" alt="test" width="300">
-  <img src="000417930012.png" alt="test" width="300">
+  <a href="work-experience-1.md"><img src="000417930005.jpg" alt="test" width="300"></a>
+  <a href="work-experience-2.md"><img src="000417930012.png" alt="test" width="300"></a>
+  <a href="work-experience-3.md"><img src="000417930012.png" alt="test" width="300"></a>
 </div>
 
 ## Projects
