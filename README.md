@@ -11,7 +11,7 @@ Hello and welcome to my portfolio, if your a recruiter, friend or stranger I hop
 
 ## Work Experience
 
-
+![test](000417930005.jpg)
 
 ## Projects
 ### Carbon Fiber Filament Winder
