@@ -21,12 +21,3 @@ Hello and welcome to my portfolio, if your a recruiter, friend or stranger I hop
 ### Carbon Fiber Filament Winder
 
 
-
-**Process Enigneer @ Howmet Aerospace (_March 2026 - Present_)**
-- Developed and optimized processes for nickel-based superalloy turbine blades and vanes, improving yield, reducing scrap, and ensuring compliance with aerospace quality standards for GE Aerospace com[...]
-- Led root cause analysis and process trials involving mold configurations and metallurgical parameter adjustments, using statistical tools to improve process stability and reduce defects. 
-
-
-**Manufacturing Intern @ GE Aerospace (_May 2024/2025 - August 2024/2025_)**
-- Reviewed tagged parts for additional defects to document for design engineering disposition.
-- Designed a custom stowable temperature uniformity survey rack using ceramic materials, providing consistent data collection between temperature surveys and furnaces across plants.
