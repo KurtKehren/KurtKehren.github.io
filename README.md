@@ -11,8 +11,10 @@ Hello and welcome to my portfolio, if your a recruiter, friend or stranger I hop
 
 ## Work Experience
 
-<img src="000417930005.jpg" alt="test" width="300">
-<img src="000417930012.png" alt="test" width="300">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="000417930005.jpg" alt="test" width="300">
+  <img src="000417930012.png" alt="test" width="300">
+</div>
 
 ## Projects
 ### Carbon Fiber Filament Winder
