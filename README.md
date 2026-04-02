@@ -1,3 +1,4 @@
+# OH HEY RYLEE ARNT I SO COOL YOU SHOULD HIRE ME
 # Mechanical Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
