@@ -2,6 +2,7 @@
 layout: default
 title: Work Experience
 ---
+
 # Manufacturing Intern @ GE Aerospace
 
 **_May 2024/2025 - August 2024/2025_**
