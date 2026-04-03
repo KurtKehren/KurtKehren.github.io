@@ -23,5 +23,5 @@ Hello and welcome to my portfolio please clcik on the images to explore each sec
  ##
 [📄 View Resume](resume.pdf)  
 
-[🔗 LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[🔗 LinkedIn](linkedin.com/in/kurtwkehren)
 
