@@ -20,8 +20,8 @@ Hello and welcome to my portfolio please clcik on the images to explore each sec
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="project-1"><img src="CAD Winder.jpg" alt="test" width="300"></a>
 
- ##
-[📄 View Resume](resume.pdf)  
+ 
+[View Resume](resume.pdf)  
 
-[🔗 LinkedIn](linkedin.com/in/kurtwkehren)
+[LinkedIn](linkedin.com/in/kurtwkehren)
 
