@@ -24,12 +24,16 @@ I also took on more ownership by pre-dispositioning tagged parts and helping des
 
 ## Top Skills Utilized
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; width: 260px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
-- Fixturing  
-- GD&T  
-- Lean Manufacturing  
+  <ul style="list-style-position: inside; padding: 0; margin: 0;">
+    <li>Fixturing</li>
+    <li>GD&amp;T</li>
+    <li>Lean Manufacturing</li>
+  </ul>
 
+  </div>
 </div>
 
 [Back to Portfolio](README.md)
