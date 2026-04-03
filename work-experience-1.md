@@ -3,10 +3,6 @@ layout: default
 title: Work Experience
 ---
 
-Non-Disclosure Agreement: I will only disclose non-proprietary information regarding my work at GE Aerospace. All images are public knowledge.
-
-# Manufacturing Intern @ GE Aerospace
-
 <div style="
   display: inline-block;
   font-size: 0.75em;
@@ -21,6 +17,8 @@ Non-Disclosure Agreement: I will only disclose non-proprietary information regar
   Non-Disclosure Agreement: I will only disclose non-proprietary information regarding my work at GE Aerospace. All images are public knowledge.
 
 </div>
+
+# Manufacturing Intern @ GE Aerospace
 
 May 2024 – August 2024 | May 2025 – August 2025
 
