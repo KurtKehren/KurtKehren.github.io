@@ -2,5 +2,5 @@ title: Kurt Kehren
 logo: GEA.jpg
 #[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
 #[Resume](resume.pdf)
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
