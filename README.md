@@ -12,12 +12,13 @@ Hello and welcome to my portfolio, if your a recruiter, friend or stranger I hop
 ## Work Experience
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="work-experience-1.md"><img src="GEA.jpg" alt="test" width="210"></a>
-  <a href="work-experience-2.md"><img src="Howmet.webp" alt="test" width="200"></a>
-  <a href="work-experience-3.md"><img src="MSURT Logo.png" alt="test" width="300"></a>
+  <a href="work-experience-1.md"><img src="GEA.jpg" alt="test" width="105"></a>
+  <a href="work-experience-2.md"><img src="Howmet.webp" alt="test" width="100"></a>
+  <a href="work-experience-3.md"><img src="MSURT Logo.png" alt="test" width="150"></a>
 </div>
 
 ## Projects
 ### Carbon Fiber Filament Winder
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <a href="work-experience-1.md"><img src="GEA.jpg" alt="test" width="105"></a>
 
