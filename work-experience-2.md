@@ -1,3 +1,7 @@
+---
+layout: default
+title: Work Experience
+---
 # Process Engineer @ Howmet Aerospace
 
 **_March 2026 - Present_**
