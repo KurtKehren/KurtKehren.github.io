@@ -7,6 +7,21 @@ Non-Disclosure Agreement: I will only disclose non-proprietary information regar
 
 # Manufacturing Intern @ GE Aerospace
 
+<div style="
+  display: inline-block;
+  font-size: 0.75em;
+  color: #444;
+  background: linear-gradient(90deg, #f7f7f7, #ffffff);
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+  margin-bottom: 20px;
+">
+  Non-Disclosure Agreement: I will only disclose non-proprietary information regarding my work at GE Aerospace. All images are public knowledge.
+
+</div>
+
 May 2024 – August 2024 | May 2025 – August 2025
 
 ## Overview
