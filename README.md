@@ -20,5 +20,5 @@ Hello and welcome to my portfolio, if your a recruiter, friend or stranger I hop
 ## Projects
 ### Carbon Fiber Filament Winder
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="work-experience-1.md"><img src="GEA.jpg" alt="test" width="105"></a>
+  <a href="project-1.md"><img src="CAD Winder.jpg" alt="test" width="300"></a>
 
