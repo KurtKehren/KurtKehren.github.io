@@ -3,13 +3,19 @@
 
 @import "{{ site.theme }}";
 
-/* Force wider layout */
-.wrapper,
-.page-content,
-.main-content,
-.container,
-.inner {
+/* widen the actual content area */
+.wrapper {
   max-width: 1200px !important;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
+}
+
+/* THIS is what is actually constraining your text */
+section {
+  max-width: 1200px !important;
+  margin: 0 auto;
+}
+
+/* optional: make it feel more modern */
+section {
+  padding: 0 20px;
 }
