@@ -14,12 +14,13 @@ For a capstone project I lead a team of mechanical engineers to create a filamen
   <a href="/project-1"><img src="WINDER CAD w markings.PNG" alt="test" width="350"></a>
 </div>
 CAD and discription of the winder.
+The raw carbon is dunked in epoxy and squgied off then layed on the tube at an angle determined by the travel of the head realtive to the rotation of the mandrel tube. It is then shrink wrapped and let to cure.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="/project-1"><img src="Display Winder.jpg" alt="test" width="350"></a>
 </div>
 
-hjsdbehe,bjshfsjefsuib
+The inital prototyping was conducted with red ribbon, we were able to increase the size of the mandrel to 3.25 inches. The winder was designed to be expanded up to 6 inch diameter tubes with a length over 4 feet.
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
