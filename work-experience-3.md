@@ -11,10 +11,21 @@ May 2024 – August 2024 | May 2025 – August 2025
 bal bla bla winder stuff
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="/project-1"><img src="GE90.jpg" alt="test" width="350"></a>
+  <a href="/project-1"><img src="WINDER CAD w markings.PNG" alt="test" width="350"></a>
+</div>
+CAD and discription of the winder.
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <a href="/project-1"><img src="Display Winder.jpg" alt="test" width="350"></a>
 </div>
 
 hjsdbehe,bjshfsjefsuib
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <a href="/project-1"><img src="ME481.1.2025-268.jpg" alt="test" width="350"></a>
+</div>
+
 
 ## Top Skills Utilized
 
