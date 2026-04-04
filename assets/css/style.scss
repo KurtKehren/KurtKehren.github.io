@@ -3,19 +3,23 @@
 
 @import "{{ site.theme }}";
 
-/* widen the actual content area */
+/* STEP 1: make wrapper wider */
 .wrapper {
-  max-width: 1200px !important;
-  margin: 0 auto;
+  width: 1200px !important;
+  margin: 0 auto !important;
 }
 
-/* THIS is what is actually constraining your text */
+/* STEP 2: expand the content area */
 section {
-  max-width: 1200px !important;
-  margin: 0 auto;
+  width: 800px !important;
 }
 
-/* optional: make it feel more modern */
-section {
-  padding: 0 20px;
+/* STEP 3: expand sidebar slightly */
+header {
+  width: 300px !important;
+}
+
+/* STEP 4: fix spacing */
+section, header {
+  float: left;
 }
