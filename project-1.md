@@ -5,10 +5,10 @@ title: Work Experience
 
 # Carbon Fiber Filament Winder
 
-May 2024 – August 2024 | May 2025 – August 2025
+December 2024 – April 2025
 
 ## Overview
-bal bla bla winder stuff
+For a capstone project I lead a team of mechanical engineers to create a filament winde that could be used by our rocketry team to make body tubes. The more in house manufacturing is done the more more points our team would score at competition, being able to customize body tube thickness and diameter increases performance while giving the team more points. 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="/project-1"><img src="WINDER CAD w markings.PNG" alt="test" width="350"></a>
