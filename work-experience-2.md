@@ -26,7 +26,7 @@ title: Work Experience
 Currently working as a Process Engineer at Howmet Aerospace, focused on developing and optimizing advanced manufacturing processes and metallurgy for aerospace applications.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="/project-1"><img src="GE90.jpg" alt="test" width="350"></a>
+  <a href="/project-1"><img src="Howmet engine.jpg" alt="test" width="350"></a>
 </div>
 
 ## Key Responsibilities
