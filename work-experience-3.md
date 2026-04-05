@@ -16,7 +16,7 @@ After a semester as a general member, I was elected by my peers to serve as the 
 CAD and discription of the winder.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="/project-1"><img src="Display Winder.jpg" alt="test" width="350"></a>
+  <a href="/project-1"><img src="Rocket.png" alt="test" width="350"></a>
 </div>
 
 hjsdbehe,bjshfsjefsuib
@@ -32,7 +32,7 @@ hjsdbehe,bjshfsjefsuib
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
   <div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; width: 180px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-    <h2 style="margin: 0;">Electronics</h2>
+    <h2 style="margin: 0;">Siemens NX</h2>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; width: 180px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
@@ -43,7 +43,7 @@ hjsdbehe,bjshfsjefsuib
     <h2 style="margin: 0;">3D Printing</h2>
   </div>
     <div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; width: 180px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-    <h2 style="margin: 0;">Gcode</h2>
+    <h2 style="margin: 0;">Project Managment</h2>
   </div>
 
 </div>
