@@ -10,7 +10,7 @@ Hello and welcome to my portfolio please click on the images to explore each sec
 -[View Resume](resume.pdf)  
 -[LinkedIn](https://www.linkedin.com/in/kurtwkehren)
 
-## Work Experience
+## Experience
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="work-experience-1"><img src="GEA.jpg" alt="test" width="105"></a>
