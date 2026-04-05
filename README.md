@@ -8,8 +8,8 @@ Hello and welcome to my portfolio please click on the images to explore each sec
 - ( More Coming Soon! )
 
 -[View Resume](resume.pdf)  
+-[LinkedIn](https://www.linkedin.com/in/kurtwkehren)
 
--[LinkedIn](linkedin.com/in/kurtwkehren)
 ## Work Experience
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
