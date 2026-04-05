@@ -7,8 +7,6 @@ Hello and welcome to my portfolio please click on the images to explore each sec
 - Minor in Material Science & Engineering
 - ( More Coming Soon! )
 
--[View Resume](resume.pdf)  
--[LinkedIn](https://www.linkedin.com/in/kurtwkehren)
 
 ## Experience
 
@@ -26,5 +24,5 @@ Hello and welcome to my portfolio please click on the images to explore each sec
  
 [View Resume](resume.pdf)  
 
-[LinkedIn](linkedin.com/in/kurtwkehren)
+[LinkedIn](https://www.linkedin.com/in/kurtwkehren)
 
