@@ -14,7 +14,7 @@ After a semester as a general member, I was elected by my peers to serve as the 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="/project-1"><img src="Team photo.jpg" alt="test" width="350"></a>
 </div>
-
+At competition our team placed 47th in our catagory and 13th in build quality.
 
 ## Top Skills Utilized
 
