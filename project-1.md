@@ -8,19 +8,18 @@ title: Work Experience
 December 2024 – April 2025
 
 ## Overview
-For a capstone project I lead a team of mechanical engineers to create a filament winde that could be used by our rocketry team to make body tubes. The more in house manufacturing is done the more more points our team would score at competition, being able to customize body tube thickness and diameter increases performance while giving the team more points. 
+For a capstone project I worked callaborativly with a team of mechanical engineers to create a filament winde that could be used by our rocketry team to make body tubes for it's high powered rocket. The more in house manufacturing is done the more more points our team would score at competition, being able to customize body tube thickness and diameter increases performance while giving the team more points. The machine was designed to be easily exapndable to make tube up to 6 feet long and 8 inches in diameter.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="/project-1"><img src="WINDER CAD w markings.PNG" alt="test" width="350"></a>
+  <a href="/project-1"><img src="WINDER CAD w markings.PNG" alt="test" width="500"></a>
 </div>
-CAD and discription of the winder.
-The raw carbon is dunked in epoxy and squgied off then layed on the tube at an angle determined by the travel of the head realtive to the rotation of the mandrel tube. It is then shrink wrapped and let to cure.
+The raw carbon is dunked in epoxy and squgied off then layed on the tube at an angle determined by the travel of the head realative to the rotation of the mandrel tube. It is then shrink wrapped and let to cure. For cost and rapid prototyping cardboard was used so diffrent sizes couble be tried and the cured carbon could be easily extracted by disolving the tube in water.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="/project-1"><img src="Display Winder.jpg" alt="test" width="350"></a>
 </div>
 
-The inital prototyping was conducted with red ribbon, we were able to increase the size of the mandrel to 3.25 inches. The winder was designed to be expanded up to 6 inch diameter tubes with a length over 4 feet.
+The inital gcode was developed with red ribbon to simulate the carbon filament width seen in the image above. An Arduino Uno was used with a CNC top hat to control the 3 stepper motors running on mnauelly coded Gcode controlling tube length, wind angle, pattern, and thickness.
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
