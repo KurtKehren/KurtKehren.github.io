@@ -10,17 +10,6 @@ June 2023 – June 2025
 ## Overview
 After a semester as a general member, I was elected by my peers to serve as the Manufacturing & Design Lead. In this role, I led a team of 15 student engineers in the design and construction of a Level 3 high-powered rocket for competition at IREC 2024 and 2025. I collaborated closely with sub-teams to integrate electronics and payload requirements into the overall system design, working alongside my team and chief engineer to ensure a cohesive and functional final product.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="/project-1"><img src="WINDER CAD w markings.PNG" alt="test" width="350"></a>
-</div>
-CAD and discription of the winder.
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="/project-1"><img src="Rocket.png" alt="test" width="350"></a>
-</div>
-
-hjsdbehe,bjshfsjefsuib
-
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="/project-1"><img src="Team photo.jpg" alt="test" width="350"></a>
