@@ -1,16 +1,5 @@
 # Mechanical Engineering Portfolio
 
-<div class="button-row">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank" class="btn linkedin">
-    LinkedIn
-  </a>
-
-  <a href="./resume.pdf" target="_blank" class="btn resume">
-    Resume
-  </a>
-</div>
-
-
 ## Summary 
 Hello and welcome to my portfolio please click on the images to explore each section, if your a recruiter, friend or stranger I hope you enjoy the journey :)
  
@@ -32,9 +21,4 @@ Hello and welcome to my portfolio please click on the images to explore each sec
 ### Carbon Fiber Filament Winder
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="project-1"><img src="CAD Winder.jpg" alt="test" width="300"></a>
-
- 
-[View Resume](resume.pdf)  
-
-[LinkedIn](https://www.linkedin.com/in/kurtwkehren)
 
