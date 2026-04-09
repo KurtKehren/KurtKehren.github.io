@@ -51,4 +51,9 @@ Currently working as a Process Engineer at Howmet Aerospace, focused on developi
 
 </div>
 
-[Back to Portfolio](README.md)
+<div class="contact-card">
+
+  <a href="/README.md" target="_blank" class="btn linkedin">
+      <i class="fas fa-file-alt"></i> Back to Portfolio
+  </a>
+</div>
