@@ -48,4 +48,9 @@ The inital gcode was developed with red ribbon to simulate the carbon filament w
 
 </div>
 
-[Back to Portfolio](README.md)
+<div class="contact-card">
+
+  <a href="/README.md" target="_blank" class="btn linkedin">
+      <i class="fas fa-file-alt"></i> Back to Portfolio
+  </a>
+</div>
