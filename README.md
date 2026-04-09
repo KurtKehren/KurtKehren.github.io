@@ -20,5 +20,5 @@ Hello and welcome to my portfolio please click on the images to explore each sec
 ## Projects
 ### Carbon Fiber Filament Winder
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="project-1"><img src="CAD Winder.jpg" alt="test" width="300"></a>
+  <a href="project-1"><img src="CAD Winder.jpg" alt="test" width="500"></a>
 
