@@ -1,17 +1,42 @@
-.btn {
-  display: block;
-  padding: 10px;
-  background-color: #2b6cb0;
-  color: white !important;
-  text-decoration: none;
-  border-radius: 8px;
-  text-align: center;
-  font-weight: bold;
-  margin-top: 10px;
-  transition: 0.3s;
+.contact-card {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
 
-.btn:hover {
-  background-color: #1a4f85;
+/* Base button */
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
+  padding: 12px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+
+  color: white !important;
+  transition: all 0.25s ease;
+}
+
+/* LinkedIn style */
+.linkedin {
+  background: #0077b5;
+}
+
+.linkedin:hover {
+  background: #005582;
+  transform: translateY(-2px);
+}
+
+/* Resume style */
+.resume {
+  background: #444;
+}
+
+.resume:hover {
+  background: #222;
   transform: translateY(-2px);
 }
