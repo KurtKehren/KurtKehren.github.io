@@ -1,4 +1,16 @@
 # Mechanical Engineering Portfolio
+
+<div class="button-row">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank" class="btn linkedin">
+    LinkedIn
+  </a>
+
+  <a href="./resume.pdf" target="_blank" class="btn resume">
+    Resume
+  </a>
+</div>
+
+
 ## Summary 
 Hello and welcome to my portfolio please click on the images to explore each section, if your a recruiter, friend or stranger I hope you enjoy the journey :)
  
