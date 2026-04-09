@@ -37,4 +37,9 @@ At competition our team placed 47th in our catagory and 13th in build quality.
 
 </div>
 
-[Back to Portfolio](README.md)
+<div class="contact-card">
+
+  <a href="/README.md" target="_blank" class="btn resume">
+      <i class="fas fa-file-alt"></i> Resume
+  </a>
+</div>
