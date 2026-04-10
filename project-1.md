@@ -50,6 +50,6 @@ The inital gcode was developed with red ribbon to simulate the carbon filament w
 
 <div class="contact-card">
   <a href="/" class="btn linkedin">
-    ← Back to Portfolio
+    Back to Portfolio
   </a>
 </div>
