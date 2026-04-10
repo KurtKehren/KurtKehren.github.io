@@ -54,8 +54,7 @@ I also took on more ownership by pre-dispositioning tagged parts and helping des
 </div>
 
 <div class="contact-card">
-
-  <a href="/README.md" target="_blank" class="btn linkedin">
-      <i class="fas fa-file-alt"></i> Back to Portfolio
+  <a href="/" class="btn linkedin">
+    Back to Portfolio
   </a>
 </div>
